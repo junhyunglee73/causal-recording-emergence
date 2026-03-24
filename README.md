@@ -3,6 +3,6 @@ Implementation of the Causal Recording Equation: Investigating the origin of phy
 
 # Requirements
 
-Python 3.x
-NumPy
-Matplotlib
+- Python 3.x
+- NumPy
+- Matplotlib
